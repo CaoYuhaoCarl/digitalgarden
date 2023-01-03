@@ -71,7 +71,7 @@ Step3：概念间逻辑调整、内容层级确定
 
 	工具集合在一起，把注意力沉浸在创作、写作上
 
-构思：excalidraw，mindmap
+构思工具：excalidraw，mindmap
 
 
 ### 总结
